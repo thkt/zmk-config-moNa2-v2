@@ -70,7 +70,7 @@
         layer_2 {
             bindings = <
 &kp LEFT_COMMAND  &kp TAB           &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9                                       &kp X                            &kp R           &kp UP_ARROW    &kp V            &kp P
-&kp LEFT_SHIFT    &trans            &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6                           &trans      &trans                           &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp MINUS
+&kp LEFT_SHIFT    &kp TAB           &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6                           &trans      &trans                           &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp MINUS
 &kp LEFT_ALT      &trans            &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3                 &trans    &trans      &kp BACKSPACE                    &kp ENTER       &mkp MB4        &mkp MB5         &kp COMMA
 &kp LEFT_SHIFT    &kp LEFT_CONTROL  &kp NUMBER_0  &kp TAB       &mt LEFT_COMMAND LANGUAGE_1  &trans    &kp ESCAPE  &mt RS(RA(RC(RIGHT_GUI))) SPACE                                                   &kp PERIOD
             >;
